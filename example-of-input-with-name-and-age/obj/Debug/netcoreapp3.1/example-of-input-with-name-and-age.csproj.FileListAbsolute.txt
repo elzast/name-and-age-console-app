@@ -1,0 +1,12 @@
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/bin/Debug/netcoreapp3.1/example-of-input-with-name-and-age.deps.json
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/bin/Debug/netcoreapp3.1/example-of-input-with-name-and-age.runtimeconfig.json
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/bin/Debug/netcoreapp3.1/example-of-input-with-name-and-age.runtimeconfig.dev.json
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/bin/Debug/netcoreapp3.1/example-of-input-with-name-and-age.dll
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/bin/Debug/netcoreapp3.1/example-of-input-with-name-and-age.pdb
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.csprojAssemblyReference.cache
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.AssemblyInfoInputs.cache
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.AssemblyInfo.cs
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.dll
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.pdb
+/Users/Eli/Projects/example-of-input-with-name-and-age/example-of-input-with-name-and-age/obj/Debug/netcoreapp3.1/example-of-input-with-name-and-age.genruntimeconfig.cache
